@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    flex-direction: row;
+
+}
+.title{
+    color: #003B79;
+    font-size: 31px;
+    font-weight: 800;
+}
+
+
+.content{
+    font-weight: 800;
+    color: #003B79;
+    font-size: 12px;
+}
+button{
+    width: 122px;
+    height: 38px;
+    border-radius: 17px;
+    color: white;
+    background-color: #007FF4;
+    font-size: 11px;
+    border: none;
+}
+button:hover{
+    color:blue;
+    background-color: white;
+}
+image{
+    background-color: #EBEEFF;
+    width:150px;
+    height:150px;
+    border-radius: 5px;
+}
+.buttonDiv{
+    display: flex;
+    flex-direction: row;
+    gap:15px
+}

@@ -1,0 +1,32 @@
+.btn{
+    width: 122px;
+    height: 38px;
+    border-radius: 17px;
+    color: white;
+    background-color: #007FF4;
+    font-size: 11px;
+    border: none;
+}
+.btn:hover{
+    color:blue;
+    background-color: white;
+}
+.mainContainer{
+    display: flex;
+    flex-direction: row;
+    color:#003B79;
+    width: 80%;
+}
+.secondContainer{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.square{
+    text-align: center;
+    width: 196px;
+    height: 172px;
+    border-radius: 5px;
+    background-color: white;
+
+}

@@ -1,0 +1,11 @@
+.contactContainer{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    border-radius: 10px;
+}
+.contactTitle{
+    font-size: 20px;
+    color:navy;
+    text-align: center;
+}

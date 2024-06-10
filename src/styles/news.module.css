@@ -1,0 +1,26 @@
+.newsContainer{
+    text-align: center;
+    background: #007FF4;
+    width: 100%;
+    height: 225px;
+    border-radius: 10px;
+}
+
+.newstitle{
+    font-size: 22px;
+    color: white;
+    margin-top: 20px;
+    padding-top: 19px;
+}
+.content{
+    font-size: 10px;
+    color:white;
+    margin: 10px;
+}
+
+input{
+    border-radius: 5px;
+    height: 32px;
+    width: 60%;
+    border: none;
+}
